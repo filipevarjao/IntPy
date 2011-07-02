@@ -31,6 +31,10 @@ For more information about it, see:
 - Kulisch, U. W., Miranker, W. L., Computer Arithmetic in Theory and Practice.
   Academic Press, 1981.
 
+Rafael Menezes Barreto (rafaelbarreto87@gmail.com)
+
+http://rafaelbarreto.wordpress.com/intpy
+
 Features
 --------
 
