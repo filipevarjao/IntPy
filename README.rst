@@ -31,11 +31,11 @@ For more information about it, see:
 - Kulisch, U. W., Miranker, W. L., Computer Arithmetic in Theory and Practice.
   Academic Press, 1981.
 
-*Project's site*: http://rafaelbarreto.wordpress.com/intpy.
+*Project's site*: http://rafaelbarreto.com/intpy.
 
-Rafael Menezes Barreto (rafaelbarreto87@gmail.com)
+Rafael Menezes Barreto (contact@rafaelbarreto.com)
 
-http://rafaelbarreto.wordpress.com/
+http://rafaelbarreto.com/
 
 Features
 --------
